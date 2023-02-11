@@ -7,7 +7,7 @@
 body {
   color: var(--color-dark);
   background: var(--color-light);
-  font-size: var(--size-step-1);
+  font-size: var(--size-step-0);
   font-family: var(--font-base);
   line-height: 1.4;
   letter-spacing: var(--tracking);
@@ -96,7 +96,7 @@ main:focus {
   outline: none;
 }
 
-article [href^='http']:not([href*='eleventy-excellent.netlify.app'])::after {
+article [href^='http']:not([href*='deimidis.me'])::after {
   display: inline-block;
   width: 1em;
   height: 1em;

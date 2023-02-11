@@ -36,3 +36,21 @@
       format('woff2'),
     url(/assets/fonts/robotomono/robotomono-variablefont_wght-webfont.woff) format('woff');
 }
+
+@font-face {
+  font-family: 'Catallina';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: local(''),
+    url(/assets/fonts/catallina/Catallina.otf);
+}
+
+@font-face {
+  font-family: 'Fira Code';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: local(''),
+    url(/assets/fonts/firacode/FiraCode-Regular.ttf);
+}

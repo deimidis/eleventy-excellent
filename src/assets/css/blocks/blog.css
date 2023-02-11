@@ -13,3 +13,6 @@
   width: 100%;
   height: auto;
 }
+h3.intro {
+  max-width: 100ch;
+}
