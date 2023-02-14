@@ -7,6 +7,10 @@ module.exports = {
     {
       text: 'Otros textos',
       url: '/blog/'
+    },
+    {
+      text: 'Temas',
+      url: '/tags/'
     }
   ],
   bottom: [
