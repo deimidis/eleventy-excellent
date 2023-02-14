@@ -23,7 +23,7 @@ layout: base
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h2>
       {% set definedDate = post.date %} {% include "partials/date.njk" %}
-      <p>{{ post.data.description }}</p>
+      <p>{% excerpt post %}</p>
     </li>
 
     {% endfor %}

@@ -4,7 +4,7 @@ slug: el-pasajero
 date_published: 2017-12-27T14:09:51.000Z
 date_updated: 2018-08-22T01:05:55.000Z
 tags: philip k. dick, electric dream, series
-description: La tercera entrega de la serie está basada en The Commuter, un cuento de 1953
+excerpt: La tercera entrega de la serie está basada en The Commuter, un cuento de 1953
 ---
 
 > Reseña del tercer capítulo de la serie: Philip K. Dick's Electric Dreams. Como siempre recordar que habrá spoilers, del cuento y del capítulo.

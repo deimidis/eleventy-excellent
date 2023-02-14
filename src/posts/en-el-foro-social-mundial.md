@@ -24,5 +24,3 @@ No todos teníamos la misma idea sobre qué es la cultura libre, ni siquiera tod
 Dentro del espacio en el que estábamos en Canoas, en el gran Porto Alegre, había distintos grupos que tenían participación.  Uno de ellos era un grupo de capoeira, donde un día nos sentamos con Jorge y Sabina a aprender a tocar el birimbao. Gracias al amigo Faca que nos filmó, les dejo el video de nuestra presentación.
 
 (si usan Firefox 3.5 o superior, la nueva beta de Opera o Chrome de google, no necesitarán ningún programa especial para ver el video. Si no deberán verlo con Flash. El video en Internet es, justamente, algo de lo que hablaré en este año, ya que es uno de los espacios donde se llevará la pelea más importante por una Internet libre y abierta)
-
-\[open-video ogv=http://unojoenelcielo.com.ar/wp-content/uploads/2010/02/birinbao2.ogv flash=http://blip.tv/file/3217279 width=550 height=350 \]

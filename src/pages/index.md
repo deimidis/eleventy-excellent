@@ -1,7 +1,7 @@
 ---
 permalink: /index.html
 title: '@deimidis'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
+excerpt: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
 layout: 'home'
 blog:
   title: 'Blog'

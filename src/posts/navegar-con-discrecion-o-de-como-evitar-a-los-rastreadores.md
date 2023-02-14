@@ -1,6 +1,6 @@
 ---
 title: "Navegar con discreción (o de como evitar a los rastreadores)"
-date: "2018-01-28"
+date: 2018-01-28
 categories: 
   - "internet"
   - "mozilla"

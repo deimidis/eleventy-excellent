@@ -6,7 +6,7 @@ tags:
   - "diseno"
 ---
 
-Desde hace tiempo, además de este blog, tengo [deimidis.me](https://deimidis.me). A ninguno de los dos los actualizo como debería, pero en su momento había decidido que este quedara para las cuestiones técnicas (mozilla, navegadores, seguridad y privacidad) y el otro para cosa más personales. No siempre cumplo, como se ve en el post anterior.
+Desde hace tiempo, además de este blog, tengo otro (ahora están fusionados). A ninguno de los dos los actualizo como debería, pero en su momento había decidido que este quedara para las cuestiones técnicas (mozilla, navegadores, seguridad y privacidad) y el otro para cosa más personales. No siempre cumplo, como se ve en el post anterior.
 
 Este está hecho con [WordPress](https://wordpress.org) y el otro con [Ghost](https://ghost.org), para probar distintos tipos de sistemas de blogs. Deimidis.me tiene un diseño muy simple que descargué. Pero voy a intentar renovarlo en estos días, y para eso usaré Figma y desarrollaré el tema desde cero. O al menos eso voy a intentar.
 

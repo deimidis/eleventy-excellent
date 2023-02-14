@@ -4,7 +4,7 @@ slug: el-creador-de-capuchas
 date: 2017-11-21T16:00:00.000Z
 date_updated: 2018-08-22T01:05:55.000Z
 tags: philip k. dick, electric dream, series, reseña
-description: El primer capítulo de Philip K. Dick's Electric Dreams se basa en el cuento The hood maker que aparece en el segundo de los tomos de sus cuentos completos y fue publicado originalmente en la revista *Imagination* en junio de 1955.
+excerpt: El primer capítulo de Philip K. Dick's Electric Dreams se basa en el cuento The hood maker que aparece en el segundo de los tomos de sus cuentos completos y fue publicado originalmente en la revista *Imagination* en junio de 1955.
 ---
 
 > La sección del cuento contendrá más *spoilers*, porque parece que no está mal visto (y porque si no lo leíste del 55 para acá, posiblemente no puedas reclamarme nada).

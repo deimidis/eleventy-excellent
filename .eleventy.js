@@ -49,6 +49,10 @@ const inclusiveLangPlugin = require('@11ty/eleventy-plugin-inclusive-language');
 // add luxon for better date management
 const { DateTime } = require("luxon");
 
+// plugin para excerpts
+const excerpt = require('eleventy-plugin-excerpt');
+
+
 module.exports = eleventyConfig => {
   // 	--------------------- Custom Watch Targets -----------------------
   eleventyConfig.addWatchTarget('./src/assets');
@@ -81,10 +85,23 @@ module.exports = eleventyConfig => {
   eleventyConfig.addFilter('values', Object.values);
   eleventyConfig.addFilter('entries', Object.entries);
 
+  // Importados del starter para los tags
+// Return all the tags used in a collection
+eleventyConfig.addFilter("getAllTags", collection => {
+  let tagSet = new Set();
+  for(let item of collection) {
+    (item.data.tags || []).forEach(tag => tagSet.add(tag));
+  }
+  return Array.from(tagSet);
+});
+  eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
+		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+	});
+
   // --- Filter for Luxon --- taken from v8 starter
   eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
 		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
-		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
+		return DateTime.fromJSDate(new Date(dateObj), { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
 	});
 
 	//eleventyConfig.addFilter('htmlDateString', (dateObj) => {
@@ -96,6 +113,8 @@ module.exports = eleventyConfig => {
     // dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
     return DateTime.fromJSDate(new Date(dateObj), {zone: 'utc'}).toFormat('yyyy-LL-dd');
 });
+
+  
 
   // 	--------------------- Custom shortcodes ---------------------
   eleventyConfig.addNunjucksAsyncShortcode('imagePlaceholder', imageShortcodePlaceholder);
@@ -123,6 +142,10 @@ module.exports = eleventyConfig => {
   eleventyConfig.setLibrary('md', markdownLib);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(inclusiveLangPlugin);
+  eleventyConfig.addPlugin(excerpt);
+
+  // plugin para draft
+  //eleventyConfig.addPlugin(require("./eleventy.config.drafts.js"));
 
   // 	--------------------- Passthrough File Copy -----------------------
   // same path

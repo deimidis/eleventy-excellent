@@ -11,8 +11,13 @@ preloads:
 <article class="region blog">
   <div class="wrapper flow prose">
     <h1 class="gradient-text">{{ title }}</h1>
-
-    {% set definedDate = date %}{% include "partials/date2.njk" %}
+  <ul>
+    {% set definedDate = date %}{% include "partials/date.njk" %}
+    {%- for tag in tags | filterTagList %}
+	  {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+    <li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
+	  {%- endfor %}
+  </ul>
 
     {{ content | safe }}
   </div>

@@ -4,7 +4,7 @@ slug: no-hay-dos-sin-tres
 date_published: 2017-10-24T13:30:52.000Z
 date_updated: 2018-08-22T01:05:55.000Z
 tags: cine, philip k. dick
-description: Fui a ver Blade Runner 2049 con algo de expectativa y algo de miedo. No la tenían fácil, ¿cómo continuar una película ya considerada de culto?
+excerpt: Fui a ver Blade Runner 2049 con algo de expectativa y algo de miedo. No la tenían fácil, ¿cómo continuar una película ya considerada de culto?
 ---
 
 > Habrá spoilers. Quedan avisados. Si no quieren saber nada de la película, mejor no seguir leyendo.

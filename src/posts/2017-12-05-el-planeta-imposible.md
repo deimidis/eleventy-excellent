@@ -4,7 +4,7 @@ slug: el-planeta-imposible
 date_published: 2017-12-05T19:00:00.000Z
 date_updated: 2018-08-22T01:05:55.000Z
 tags: philip k. dick, electric dream, series
-description: "Segundo capítulo de la serie basada en cuentos de Philip K. Dick. En este capítulo el cuento: El planeta imposible"
+excerpt: "Segundo capítulo de la serie basada en cuentos de Philip K. Dick. En este capítulo el cuento: El planeta imposible"
 ---
 
 > Voy a probar otro formato de reseña, a ver si sale bien. De nuevo, puede contener spoilers sobre el cuento, la serie, la vida, etc.

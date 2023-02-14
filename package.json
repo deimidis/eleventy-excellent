@@ -37,6 +37,7 @@
     "cssnano": "^5.1.7",
     "dayjs": "^1.11.5",
     "dotenv": "^16.0.3",
+    "eleventy-plugin-excerpt": "^1.1.2",
     "esbuild": "^0.17.0",
     "glob": "^8.0.3",
     "html-minifier-terser": "^7.1.0",
