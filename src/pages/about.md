@@ -1,22 +1,11 @@
 ---
-title: About
+title: De qué va esto
 permalink: /about/index.html
 excerpt: About this starter
 layout: page
 youtube: true
 ---
 
-Based on the [companion website](https://buildexcellentwebsit.es/) of Andy Bell's talk 'Be the browser’s mentor, not its micromanager'. It takes over a core functionality: Using Tailwind CSS to generate CSS variables based on design tokens.
+La fusión de dos blogs que tuve y que no supe mantener, ahora usando [Eleventy](https://www.11ty.dev) para crear el sitio, en lugar de WordPress o Ghost. Iré recopilando ideas, opiniones y escritos, con mayor énfasis en una mirada crítica al desarrollo tecnológico capitalista (aún estando inmerso en él), pero también escribiendo sobre música, series, viajes, etc.
 
-Like buildexcellentwebsit.es, this starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template, ideal for personal websites and other small projects.
-
-The aim is to hopefully spread the use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
-
-- Find out more on https://buildexcellentwebsit.es/.
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
-
-Edit your preferences (colors, fonts, fluid text sizes etc.) in `src/assets/css/design-tokens`.
-
-## Watch the talk
-
-{% youtube 'JqnMI1AXl6w', 'Andy Bell – Be the browser’s mentor, not its micromanager' %}
+Para el diseño usé el modelo de [Lene Saile](https://front-end.social/@lene) que se puede encontrar en su [repositorio de Github](https://github.com/madrilene/eleventy-excellent#working-locally) y le realicé algunas modificaciones que me venían bien. Por ahora está muy similar gráficamente, pero espero irlo cambiando con el tiempo, al aprender más del sistema que utiliza, basado en el [sitio preparado](https://buildexcellentwebsit.es/) para la charla "Sé el mentor del navegador y no su microgerente", que se centra en el uso del CSS para lograr un diseño que se adapte a cualquier pantalla.

@@ -16,3 +16,11 @@
 h3.intro {
   max-width: 100ch;
 }
+.blog figure {
+  width: 75%;
+  height: auto;
+}
+figure {
+  max-width: 100%;
+  display: block;
+}

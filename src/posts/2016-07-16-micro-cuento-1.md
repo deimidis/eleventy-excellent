@@ -1,7 +1,7 @@
 ---
 title: micro cuento 1
 slug: micro-cuento-1
-date_published: 2016-07-16T21:47:17.000Z
+date: 2016-07-16T21:47:17.000Z
 date_updated: 2018-08-22T01:05:55.000Z
 ---
 

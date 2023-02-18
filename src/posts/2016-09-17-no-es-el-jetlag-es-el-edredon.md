@@ -1,7 +1,7 @@
 ---
 title: No es el Jetlag, es el edredón
 slug: no-es-el-jetlag-es-el-edredon
-date_published: 2016-09-17T20:24:34.000Z
+date: 2016-09-17T20:24:34.000Z
 date_updated: 2018-08-22T01:05:55.000Z
 ---
 
@@ -22,11 +22,8 @@ El desconcierto llega cuando nos acostamos y no encontramos sábanas debajo de e
 Cuando investigamos, nos enteramos que eso se llama **edredón** y que, citando a la wikipedia:
 
 > es un tipo de cubierta compuesta por una funda suave, tradicionalmente rellena de plumón o material sintético, que se utiliza en la cama como manta. Hoy en día, los edredones también se llenan de lana o fibras artificiales como poliéster.
-
 > Los edredones sintéticos no son calurosos, por lo que se recomiendan para habitaciones con calefacción o para entretiempo.
-
 > Al mantener las plumas el calor del cuerpo, los edredones naturales son recomendables para habitaciones frías y climas poco calurosos.
-
 > En las camas equipadas con edredones, el colchón se cubre con una sábana bajera y encima se coloca el edredón.
 
 Y resulta que fueron inventados en algún lugar campestre de Europa, quizás por los nórdicos, y usaban las plumas de un pato, que aislaba mucho del frío.

@@ -1,7 +1,7 @@
 ---
 title: Diamante loco
 slug: diamante-loco
-date_published: 2018-01-16T18:06:42.000Z
+date: 2018-01-16T18:06:42.000Z
 date_updated: 2018-08-22T01:05:55.000Z
 tags: philip k. dick, electric dream, series, reseña
 excerpt: Continúo con las reseñas de la serie basada en cuentos de Philip K. Dick, en este caso el cuarto capítulo, basado en el cuento "Sales Pitch" (traducido como Campaña publicitaria en los cuentos completos).
@@ -9,7 +9,7 @@ excerpt: Continúo con las reseñas de la serie basada en cuentos de Philip K. D
 
 > Continúo con las reseñas de la serie basada en cuentos de Philip K. Dick, en este caso el cuarto capítulo, basado en el cuento *Sales Pitch (traducido como «Campaña publicitaria» en los cuentos completos)*.
 
-![crazy_diamond](/content/images/2018/01/crazy_diamond.jpg)
+![crazy_diamond](/assets/images/2018/01/crazy_diamond.jpg)
 
 ### Lo que tienen en común
 

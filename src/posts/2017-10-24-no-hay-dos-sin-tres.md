@@ -1,7 +1,7 @@
 ---
 title: No hay dos sin tres
 slug: no-hay-dos-sin-tres
-date_published: 2017-10-24T13:30:52.000Z
+date: 2017-10-24T13:30:52.000Z
 date_updated: 2018-08-22T01:05:55.000Z
 tags: cine, philip k. dick
 excerpt: Fui a ver Blade Runner 2049 con algo de expectativa y algo de miedo. No la tenían fácil, ¿cómo continuar una película ya considerada de culto?
@@ -13,7 +13,7 @@ Fui a ver **Blade Runner 2049** con algo de expectativa y algo de miedo. No la t
 
 Uno de los logros de la película es el balance conseguido entre continuación de la original (en ritmo, fotografía, sonido) y la incorporación de los efectos posibles en la actualidad.
 
-![blade_runner_2049](__GHOST_URL__/content/images/2017/10/blade_runner_2049.png)
+![blade_runner_2049](/assets/images/2017/10/blade_runner_2049.png)
 
 Así como se ha dicho que el Episodio VII de Star Wars era un espejo del Episodio IV (la primera del 77), las primeras escenas de **Blade Runner: 2049** son un homenaje a la original de 1982.
 

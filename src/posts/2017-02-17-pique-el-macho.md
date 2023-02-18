@@ -1,7 +1,7 @@
 ---
 title: Sabores ancestrales
 slug: pique-el-macho
-date_published: 2017-02-17T17:50:46.000Z
+date: 2017-02-17T17:50:46.000Z
 date_updated: 2018-08-22T01:05:55.000Z
 ---
 
@@ -21,7 +21,7 @@ Se seguían escuchando ruidos del fondo y la comida tardaba. Pero éramos jipis 
 
 Sabíamos que lo de Pique Macho venía por algo, así que probamos cautelosamente, pero no había picor en ese primer bocado. Recién empezábamos el almuerzo y de tan felices que estábamos, Esteban dijo de sacarnos una foto.
 
-![Degustando el rocoto](__GHOST_URL__/content/images/2017/02/PabloPotosi.jpg)
+![Degustando el rocoto](/assets/images/2017/02/PabloPotosi.jpg)
 
 Por eso aún se puede ver en todo su esplendor la cara de Pablo un segundo después de haber tenido un encuentro cercano con el rocoto. El pan llena su boca y mira desesperado a un costado mientras yo sonrío a la cámara. Su plato quedó intacto. No pudo probar nada más. No se le fue el rojo de la cara hasta bastante entrada la tarde. Yo me cuidé, sacando de mi plato todo lo rojo, hasta que sobre el final, creyéndome canchero, confundí un tomate con uno de esos ajíes. Nunca fui valiente, así que en cuanto sentí que mis labios se dormían lo escupí (Pablo lo había masticado y tragado). No pude hablar por dos horas. Pedimos la cuenta, que además fue un asalto para nuestros bolsillos adolescentes. Volvimos al hotel con cierta sensación de haber sido derrotados por las culturas milenarias.
 

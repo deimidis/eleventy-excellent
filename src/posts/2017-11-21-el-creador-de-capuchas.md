@@ -9,7 +9,7 @@ excerpt: El primer capítulo de Philip K. Dick's Electric Dreams se basa en el c
 
 > La sección del cuento contendrá más *spoilers*, porque parece que no está mal visto (y porque si no lo leíste del 55 para acá, posiblemente no puedas reclamarme nada).
 
-![hood_maker](/content/images/2017/11/hood_maker.jpg)
+![hood_maker](/assets/images/2017/11/hood_maker.jpg)
 
 El primer capítulo de *[Philip K. Dick's Electric Dreams](http://www.imdb.com/title/tt5711280/)* se basa en el cuento **[The hood maker](http://www.imdb.com/title/tt6876642/?ref_=ttep_ep1)** que aparece en el segundo de los tomos de sus cuentos completos y fue publicado originalmente en la revista *Imagination* en junio de 1955.
 

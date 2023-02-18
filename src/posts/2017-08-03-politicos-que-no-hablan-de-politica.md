@@ -1,7 +1,7 @@
 ---
 title: Políticos que no hablan de política
 slug: politicos-que-no-hablan-de-politica
-date_published: 2017-08-03T13:45:27.000Z
+date: 2017-08-03T13:45:27.000Z
 date_updated: 2018-08-22T01:05:55.000Z
 tags: politica, ideas
 ---

@@ -1,7 +1,7 @@
 ---
 title: El desorden digital
 slug: el-desorden-digital
-date_published: 2016-09-10T21:25:40.000Z
+date: 2016-09-10T21:25:40.000Z
 date_updated: 2018-08-22T01:05:55.000Z
 ---
 
@@ -13,7 +13,7 @@ Así que fui a **Gmail** e intenté ingresar con otra contraseña. Pero no la ha
 
 El siguiente paso fue ir a ver como se configuraba el correo en **Ghost**, porque quizas habían cambiado alguna configuración y había una explicación de como hacerlo funcionar en **Gmail**. Dentro de los servicios recomendados por **Ghost** estaba [**Mailgun**](https://mailgun.com) y ahí recordé que yo lo había configurado alguna vez, **¿pero con qué cuenta?**.
 
-Intenté loguearme en **Mailgun** pero sin éxito. Empece a buscar entre varias cuentas de correo a ver si habia mensajes del servicio, y por suerte encontré uno. La habia usado para otro proyecto de blog con **Ghost** justamente. Cambie las credenciales de Gmail por las de Mailgun y **Ghost** me aviso que esta vez el correo había salido. Pero no llegaba a la cuenta de **Gmail** (y si, me fijé en spam).
+Intenté loguearme en **Mailgun** pero sin éxito. Empecé a buscar entre varias cuentas de correo a ver si habia mensajes del servicio, y por suerte encontré uno. La habia usado para otro proyecto de blog con **Ghost** justamente. Cambié las credenciales de Gmail por las de Mailgun y **Ghost** me aviso que esta vez el correo había salido. Pero no llegaba a la cuenta de **Gmail** (y si, me fijé en spam).
 
 Estuve unos minutos pensando y probando hasta que logré loguearme en **Mailgun** y ahi estaba el mail. Lo abrí, pero me encontre con un texto codificado en base64.
 

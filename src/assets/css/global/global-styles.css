@@ -48,9 +48,9 @@ h3 {
 }
 
 blockquote {
-  border-inline-start: 0.8rem solid var(--color-primary);
+  /* border-inline-start: 0.2rem solid var(--color-primary); */
   padding: var(--space-m-l);
-  font-size: var(--size-step-2);
+  font-size: var(--size-step-0);
 }
 
 blockquote > * + * {
@@ -59,8 +59,8 @@ blockquote > * + * {
 
 blockquote :last-child {
   font-family: var(--font-base);
-  font-style: normal;
-  font-size: var(--size-step-1);
+  font-style: italic;
+  font-size: var(--size-step-0);
 }
 
 svg {
