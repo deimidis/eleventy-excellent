@@ -101,7 +101,10 @@ eleventyConfig.addFilter("getAllTags", collection => {
   // --- Filter for Luxon --- taken from v8 starter
   eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
 		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
-		return DateTime.fromJSDate(new Date(dateObj), { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
+    //dt = DateTime.fromJSDate(new Date(dateObj), { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
+    dt = DateTime.fromJSDate(new Date(dateObj), { zone: zone || "utc" }).setLocale('es').toFormat('DDDD');
+    //dt.setLocale('fr').toLocaleString({ locale: 'fr' });
+    return dt;
 	});
 
 	//eleventyConfig.addFilter('htmlDateString', (dateObj) => {
@@ -111,10 +114,14 @@ eleventyConfig.addFilter("getAllTags", collection => {
 
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
     // dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-    return DateTime.fromJSDate(new Date(dateObj), {zone: 'utc'}).toFormat('yyyy-LL-dd');
+    return DateTime.fromJSDate(new Date(dateObj), {zone: 'utc'}).toFormat('yyyy-LL-dd').toLocaleString(DateTime.TIME_WITH_SECONDS);
 });
 
-  
+// Prueba de fecha para el idioma
+eleventyConfig.addFilter('diadehoy', (dateObj) => {
+  // dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+  return DateTime.fromJSDate(new Date()).setLocale('fr').toLocaleString(DateTime.TIME_WITH_SECONDS);
+});  
 
   // 	--------------------- Custom shortcodes ---------------------
   eleventyConfig.addNunjucksAsyncShortcode('imagePlaceholder', imageShortcodePlaceholder);

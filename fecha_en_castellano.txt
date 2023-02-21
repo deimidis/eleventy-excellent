@@ -1,0 +1,5 @@
+const jsDate = new Date(); // replace this with your JavaScript date
+const dateTime = luxon.DateTime.fromJSDate(jsDate);
+const formattedDate = dateTime.toLocaleString({ locale: "es" });
+console.log(formattedDate);
+
