@@ -1,5 +1,5 @@
 module.exports = {
-  url: process.env.URL || 'http://localhost:8080',
+  url: process.env.URL || 'http://deimidis.me',
   siteName: 'deimidis.me',
   siteDescription:
     'Apuntes del mundo con medio siglo de vida (o casi).',
