@@ -7,7 +7,7 @@ tags:
     - columna
     - inteligencia artificial
 ---
-Después de muchos años, empecé una nueva columna sobre tecnología en la radio. Esta vez en Radio En Trásito, en el programa **Todo otra vez**. Es un poco más complicado porque al estar por conferencia, no puedo ver a Raquel y Agustín cuando hablamos.
+Después de muchos años, empecé una nueva columna sobre tecnología en la radio. Esta vez en Radio En Trásito, en el programa **Todo otra vez**. Es un poco más complicado porque al estar por conferencia, no puedo ver a Raquel y Agustín cuando hablamos. El programa se puede escuchar en el 93.9 de FM, [desde su página web](https://comunicacionsocial.org.ar/) y también suben las columnas en modo Podcast a distintas plataformas.
 
 La primera fue el 31 de marzo y hablamos sobre las *inteligencias artificiales*, principalmente las de modelos de lenguaje como GPT. Más abajo se puede encontrar el audio y la transcripción del mismo. También voy a ir dejando **recursos** que utilicé en la investigación para la columna, y los temas que quería tratar (como se puede ver, en la primera no llegué a plantear todos los problemas que quería).
 
