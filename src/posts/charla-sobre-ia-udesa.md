@@ -13,12 +13,16 @@ El año pasado me inscribí en el Diplomado "Inteligencia Artificial y Sociedad"
 
 Ahi conocí a [Marian Ferrarelli](https://twitter.com/FerrarelliM) que me invitó a dar una charla introductoria sobre el tema a sus alumnes. Acá dejo el audio (solo de mi parte) y la presentación que utilicé por si es de utilidad para alguien.
 
+<!--
 <iframe id="inlineFrameExample"
     title="Presentación"
     width="820"
     height="597"
     src="http://presentaciones.shanzai.com.ar/inteligencia-artificial.html">
 </iframe>
+-->
+
+<object type="text/html" data="http://presentaciones.shanzai.com.ar/inteligencia-artificial.html" width="820" height="597"></object> 
 
 <audio controls src="https://archive.org/download/clase_IA_Profesorado/clase_IA_Profesorado.ogg">
             <a href="https://archive.org/download/clase_IA_Profesorado/clase_IA_Profesorado.ogg">
