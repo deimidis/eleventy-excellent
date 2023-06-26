@@ -22,7 +22,7 @@ Ahi conoc√≠ a [Marian Ferrarelli](https://twitter.com/FerrarelliM) que me invit√
 </iframe>
 -->
 
-<object type="text/html" data="http://presentaciones.shanzai.com.ar/inteligencia-artificial.html" width="820" height="597"></object> 
+<object type="text/html" data="https://presentaciones.shanzai.com.ar/inteligencia-artificial.html" width="820" height="597"></object> 
 
 <audio controls src="https://archive.org/download/clase_IA_Profesorado/clase_IA_Profesorado.ogg">
             <a href="https://archive.org/download/clase_IA_Profesorado/clase_IA_Profesorado.ogg">
