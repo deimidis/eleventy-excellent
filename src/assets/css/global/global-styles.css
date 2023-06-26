@@ -120,3 +120,6 @@ article [href^='http']:not([href*='deimidis.me'])::after {
 .preload-transitions * {
   transition: none !important;
 }
+audio {
+  width: 100%;
+}
